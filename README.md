@@ -1,3 +1,5 @@
+:warning: This workflow requires Julia 1.9 or newer.
+
 # Quick Start
 
 - Create subprojects `A`, `B`, and `C` using `]generate A` etc. in a flat folder hierarchy.
